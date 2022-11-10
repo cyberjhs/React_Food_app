@@ -1,0 +1,30 @@
+body,p {
+  margin: 0;
+  padding: 0;
+}
+
+.Main{
+  text-align: center;
+}
+
+.Main > input{
+  font-weight: bold;
+  margin: 1rem 0rem;
+  padding: 4px 2rem;
+}
+
+.Main>button{
+  height: 1.8rem;
+}
+
+.food_item > img{
+  box-shadow: 0px 10px 5px gray;
+  margin: 2.5rem 0px;
+}
+
+.food_item > p{
+  font-size: x-large;
+  margin-top: -1.8rem;
+}
+
+
